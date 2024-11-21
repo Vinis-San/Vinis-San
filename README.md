@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-andrade-912295234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviniicin/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsbvinidesousa@gmail.com)
+[![Cursos e Certificados](https://img.shields.io/badge/Cursos%20e%20Certificados-00A8E8?style=for-the-badge&logo=academia&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-andrade-912295234/details/certifications/)
+
 
 ## Tecnologias que Eu Utilizo
 
@@ -14,6 +16,7 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
 
@@ -29,6 +32,10 @@
 ### Websites
 [![Bibliote_de_TI](https://img.shields.io/badge/Biblioteca_de_TI-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Biblioteca_TIC/)
 [![Conjurador_de_verbos](https://img.shields.io/badge/Conjurador_de_verbos-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/ConjuradorDeVerbosRPG/)
+
+##
+
+
 
 
 
