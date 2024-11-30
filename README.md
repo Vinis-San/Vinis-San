@@ -30,6 +30,7 @@
 
 ## Projetos de Programação
 ### Websites
+[![Oráculo](https://img.shields.io/badge/Oraculo-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/GitHub_Pages/)
 [![Bibliote_de_TI](https://img.shields.io/badge/Biblioteca_de_TI-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Biblioteca_TIC/)
 [![Conjurador_de_verbos](https://img.shields.io/badge/Conjurador_de_verbos-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/ConjuradorDeVerbosRPG/)
 
