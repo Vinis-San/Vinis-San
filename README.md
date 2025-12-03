@@ -30,6 +30,8 @@
 
 ## Projetos de Programação
 ### Websites
+[![Portifólio](https://img.shields.io/badge/Oraculo-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/index.html)
+[![Agente de IA 'DonaRute'](https://img.shields.io/badge/Oraculo-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/pages/DonaRute.html)
 [![Oráculo](https://img.shields.io/badge/Oraculo-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/GitHub_Pages/)
 [![Hero Academy](https://img.shields.io/badge/Hero_Academy-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/HeroAcademy/)
 [![Bibliote_de_TI](https://img.shields.io/badge/Biblioteca_de_TI-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Biblioteca_TIC/)
