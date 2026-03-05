@@ -20,22 +20,12 @@
 </div>
 
 
-## Minhas Estatísticas no GitHub
-
-<div style="display: flex; justify-content: space-around;">
-<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Vinis-San&show_icons=true&theme=dark" style="margin-right: 10px;"/>
-    
-<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinis-San&layout=compact&langs_count=7&theme=dark" style="margin-left: 10px;"/>
-</div>
-
 ## Projetos de Programação
 ### Websites
 [![Portifólio](https://img.shields.io/badge/Portifólio-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/index.html)
 [![Agente de IA 'DonaRute'](https://img.shields.io/badge/AgenteIA'DonaRute'-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/pages/DonaRute.html)
-[![Oráculo](https://img.shields.io/badge/Oraculo-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/GitHub_Pages/)
 [![Hero Academy](https://img.shields.io/badge/Hero_Academy-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/HeroAcademy/)
-[![Bibliote_de_TI](https://img.shields.io/badge/Biblioteca_de_TI-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Biblioteca_TIC/)
-[![Conjurador_de_verbos](https://img.shields.io/badge/Conjurador_de_verbos-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/ConjuradorDeVerbosRPG/)
+
 
 ##
 
