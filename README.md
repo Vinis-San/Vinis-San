@@ -22,6 +22,7 @@
 ## Projetos de Programação
 ### Websites
 [![Portifólio](https://img.shields.io/badge/Portifólio-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/index.html)
+[![Dashboard de Análise de Canal do Youtube](https://img.shields.io/badge/Portifólio-333?style=for-the-badge&logo=github&logoColor=white)]([https://vinis-san.github.io/Portifolio/index.html](https://vinis-san.github.io/YouTube-Analytics-Dashboard/))
 [![Agente de IA 'DonaRute'](https://img.shields.io/badge/AgenteIA'DonaRute'-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/Portifolio/pages/DonaRute.html)
 [![Hero Academy](https://img.shields.io/badge/Hero_Academy-333?style=for-the-badge&logo=github&logoColor=white)](https://vinis-san.github.io/HeroAcademy/)
 
